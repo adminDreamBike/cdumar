@@ -1,5 +1,6 @@
-# 👋 Hi, I’m [Carlos Rodriguez]
+# 👋 Hi there! 
 
+- 👋 I’m Carlos Rodriguez
 - 🎓 Telecommunications Engineer from Santo Tomas University
 - 💼 Currently working at EPAM as a Frontend Developer
 - 🛠️ Proficient in:
